@@ -12,7 +12,7 @@ Things you need to get started:
 # Installing
 - Clone this repository:
 ```
-git clone https://github.com/samie820/hooks-movie-app.git
+git clone https://github.com/MateusAbdala/hooked-movies.git
 ```
 
 - Install all the project's dependencies:
